@@ -42,61 +42,22 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Clari](https://www.clari.com/)**  
-
-  Leading enterprise revenue intelligence and forecasting platform for pipeline inspection, deal management, and accurate revenue predictions at scale.
-
-
-
-- **[Gong](https://www.gong.io/)**  
-
-  Dominant conversation intelligence platform that records and analyzes sales calls, emails, and meetings to surface deal risks, coaching insights, and revenue signals.
-
-
-
-- **[People.ai](https://www.people.ai/)**  
-
-  Revenue intelligence solution that automatically captures sales activities from email, calendar, and calls and maps them into the CRM for better visibility and coaching.
-
-
-
-- **[BoostUp](https://www.boostup.ai/)**  
-
-  AI-powered pipeline management and forecasting platform focused on deal inspection, forecast accuracy, and mid-market revenue teams.
-
-
-
-- **[Aviso / Aviso AI](https://www.aviso.com/)**  
-
-  AI-native forecasting and revenue intelligence platform specializing in predictive deal scoring and forecast reliability.
-
-
-
-- **[InsightSquared / Mediafly Revenue360](https://www.insightsquared.com/)**  
-
-  Revenue analytics and intelligence platforms delivering pipeline insights, forecasting, and performance dashboards.
-
-
-
-- **[Revenue Grid, Scratchpad, Salesloft](https://www.revenuegrid.com/)**  
-
-  Tools covering activity capture, CRM hygiene, sales engagement, and revenue workflow automation that feed intelligence layers.
-
-
-
-- **[6sense, Salesken, Attention, Revenue.io](https://6sense.com/)**  
-
-  Platforms combining intent data, conversation intelligence, real-time guidance, and revenue orchestration capabilities.
-
-
-
-- **[Other revenue intelligence platforms](https://www.clari.com/)**  
-
-  Additional commercial solutions for deal intelligence, forecasting, and sales performance analytics.
-
-
+| Platform | Description | Starting Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Clari](https://www.clari.com/)** | Enterprise revenue platform offering pipeline inspection, deal execution, and AI-driven revenue forecasting. | Starts at ~$100/user/month ($1,200/user/year billed annually; Clari Copilot starts at $60/user/month; entry contracts start at ~$15,000/year minimum) | 14-day sales-guided proof-of-concept (POC) trial (limited to 5–10 sales reps; includes sandbox CRM sync and forecast modeling) |
+| **[Gong](https://www.gong.io/)** | Dominant conversation intelligence platform analyzing customer calls, meetings, and emails to detect deal risks. | Starts at ~$100–$120/user/month ($1,200–$1,400/user/year billed annually, plus a base platform fee starting at $5,000/year) | 14-day sales-guided pilot trial (limited to 5–10 reps; includes call recording, AI transcripts, and deal risk analytics) |
+| **[People.ai](https://www.people.ai/)** | Revenue intelligence solution that automatically captures sales activities from email/calendar and maps them into CRM. | Starts at ~$50/user/month ($600/user/year billed annually; enterprise contract minimum starts around ~$24,000/year) | 14-day proof-of-concept (POC) trial (limited to 1 sales team/department with sandbox CRM email/calendar activity mapping) |
+| **[BoostUp (Terret)](https://www.boostup.ai/)** | AI-powered pipeline management, deal risk scoring, and revenue forecasting platform for B2B revenue teams. | Starts at ~$79/user/month ($948/user/year billed annually; minimum entry contract ~$10,000/year) | 14-day proof-of-concept (POC) trial or 48-hour rapid sales assessment (limited to 10 users with historical CRM deal audit) |
+| **[Aviso AI](https://www.aviso.com/)** | AI-native forecasting, conversation intelligence, and deal win-probability scoring platform. | Starts at ~$40/user/month ($480/user/year billed annually; base enterprise packages start around ~$15,000/year) | 14-day proof-of-concept (POC) trial (limited to up to 10 user licenses with historical pipeline data ingestion and predictive win-rate modeling) |
+| **[Mediafly Revenue360 (InsightSquared)](https://www.mediafly.com/revenue360/)** | Revenue analytics and intelligence suite delivering pipeline health dashboards, sales cycle forecasting, and enablement. | Starts at ~$51–$65/user/month ($612–$780/user/year billed annually; base enterprise packages start around ~$17,000/year) | 14-day guided assessment trial (includes CRM pipeline hygiene audit, deal health report, and sample forecast dashboard) |
+| **[Revenue Grid](https://www.revenuegrid.com/)** | Automated CRM activity capture, pipeline revenue signals, sales coaching, and guided selling. | Starts at $30/user/month (Activity Capture 360; Knowledge Capture at $49/user/month, Ultimate at $149/user/month billed annually) | 14-day free trial (full access for up to 5 users to email/calendar auto-sync, pipeline signals, and CRM integration; no credit card required) |
+| **[Scratchpad](https://www.scratchpad.com/)** | Revenue workspace combining fast CRM data updates, AI call transcription/notes, pipeline inspection, and deal hygiene. | Starts at $19/user/month (Solo plan billed annually) or $49/user/month (Team plan billed annually) | Free forever plan (1 user, 100 AI credits/user/month, 10 hours/month call recording & transcription, 3 sales sheets, standard CRM sync) |
+| **[Salesloft](https://www.salesloft.com/)** | AI-driven revenue orchestration platform combining sales cadences, conversation intelligence, deal tracking, and forecasting. | Starts at ~$125/user/month (Advanced plan billed annually; typically requires 10-seat minimum, ~$15,000/year) | 14-day sales-guided pilot trial (limited to 5–10 sales representatives with cadence automation and call coaching sandbox) |
+| **[6sense](https://6sense.com/)** | Account-based revenue intelligence platform leveraging intent data, AI predictive deal scoring, and multi-channel orchestration. | Starts at ~$80–$100/user/month (or specialized entry packages starting at ~$10,000–$25,000/year for sales intelligence modules) | 14-day sales-guided proof-of-concept (POC) trial (limited to tracking up to 50 target accounts and intent keyword analysis) |
+| **[Salesken](https://salesken.ai/)** | Conversation intelligence platform offering real-time speech analytics and live, in-call sales playbook cues for reps. | Starts at ~$99/recorded user/month (billed annually, plus base platform setup fee) | 14-day proof-of-concept (POC) trial (limited to 5 sales reps; includes live call transcription and real-time coaching prompts) |
+| **[Attention](https://www.attention.tech/)** | AI sales assistant automating CRM data entry, sales call intelligence, rep coaching, and automated post-call follow-ups. | Starts at ~$50–$75/user/month (billed annually; entry deployment contracts typically start around ~$10,000/year) | 14-day proof-of-concept (POC) trial (limited to 5 sales reps with automatic meeting recording, CRM field filling, and follow-up emails) |
+| **[Revenue.io](https://www.revenue.io/)** | Real-time sales guidance, conversation intelligence, and dialer automation natively integrated with Salesforce. | Starts at ~$75–$100/user/month (Activate tier billed annually; typically requires 15-seat minimum) | Free trial of Revenue Roleplay (100 AI-powered roleplay sessions, no credit card required) or 14-day sales-guided platform pilot |
+| **[ZoomInfo Chorus](https://www.zoominfo.com/products/chorus)** | Conversation intelligence and deal forecasting solution analyzing sales meetings and emails to surface revenue risks. | Starts at ~$100–$120/user/month ($1,200–$1,400/user/year billed annually; entry package typically starts at ~$8,000–$12,000/year) | 14-day free trial on ZoomInfo platform (includes 25 export credits and sample call transcription access) |
 
 ## Open-Source GitHub Projects
 
